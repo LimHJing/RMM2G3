@@ -1,0 +1,30 @@
+Options:-
+
+1. Food Ordering System
+
+2. Ticketing System
+
+3. Library System
+
+4. Point of Sales System
+
+5. Inventory Control System
+
+6. Facilities Reservation System
+
+7. Scheduling System
+
+8. ICT Services and Support System
+
+9. Other windows application system
+
+=======================================
+Options of members:-
+
+1. Hui Jing    ： 
+
+2. Ni Sing     : 
+
+3. Jun Hoong   : Food Ordering, Ticketing, Library, Point of Sales
+
+4. Winnie Wong : 
