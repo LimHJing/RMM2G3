@@ -1,0 +1,20 @@
+==================================
+1. Coursework (50%)
+----------------------------------
+● Assigment (60%)
+  - 8 topics come from PYQ
+
+● Presentation (40%) {2 methods per student, 1st come 1st serve)
+  - Derivation of the method
+
+  - Real life example(s) {the more examples, the more extra marks}
+
+  - Extra points: programming (C, C++, Python, R, Matlab, ...) or Ms Excel or ...
+     NOT using packages
+
+  # Error Estimation
+
+----------------------------------
+2. Final e-assessment (50%)
+
+==================================
