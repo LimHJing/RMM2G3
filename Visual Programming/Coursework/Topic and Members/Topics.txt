@@ -21,7 +21,7 @@ Options:-
 =======================================
 Options of members:-
 
-1. Hui Jing    ： 
+1. Hui Jing    ： Food Ordering System, Ticketing System, Point of Sales System
 
 2. Ni Sing     : 
 
